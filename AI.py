@@ -9,7 +9,7 @@ def multiply(a:float, b:float) -> float:
 
 llm = GoogleGenAI(
     model = 'gemini-2.5-flash',
-    api_key = 'AIzaSyB8ZLy7eeC4-jkIgCKRwOJagG5E2xF38Bo'
+    api_key = 'please key placeholder'
 )
 
 agent = FunctionAgent(
